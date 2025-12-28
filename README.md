@@ -27,7 +27,7 @@
 1. کلون کردن ریپازیتوری:
 
 ```bash
-git clone https://github.com/parsamehrpooshan/Torino-api.git
+git clone https://github.com/parsamehrpooshan/BotoFood
 ```
 
 2. ورود به پوشه پروژه:
